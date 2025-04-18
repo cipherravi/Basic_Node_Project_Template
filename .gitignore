@@ -4,3 +4,4 @@ combined.log
 .DS_Store
 npm-debug.log*
 src/.DS_Store
+src/config/config.json
