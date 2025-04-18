@@ -8,4 +8,4 @@ const info = (req, res) => {
     data: {},
   });
 };
-module.exports = info;
+module.exports = { info };
